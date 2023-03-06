@@ -6,10 +6,10 @@
 
 <table>
     <tr>
-       <td></td>
+       <td>intl</td>
     </tr>
     <tr>
-        <td></td>
+        <td>0.18.0</td>
     </tr>
 </table>
 
