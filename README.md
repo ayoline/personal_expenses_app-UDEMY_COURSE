@@ -2,7 +2,7 @@
 ### This Flutter repository was created to practice some language features.
 
 > Status: in progress... 🚧 
-## Widgets used so far in this repository::
+## Packages used so far in this repository::
 
 <table>
     <tr>
