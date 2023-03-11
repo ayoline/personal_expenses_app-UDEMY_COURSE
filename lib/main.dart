@@ -19,11 +19,13 @@ class MyApp extends StatelessWidget {
             secondary: Colors.amber,
           ),
           textTheme: TextTheme(
-              titleLarge: TextStyle(
-            fontFamily: 'OpenSans',
-            fontSize: 18,
-            fontWeight: FontWeight.bold,
-          )),
+            titleLarge: TextStyle(
+              fontFamily: 'OpenSans',
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+            labelLarge: TextStyle(color: Colors.white),
+          ),
           appBarTheme: AppBarTheme(
             toolbarTextStyle:
                 ThemeData.light().textTheme.titleLarge?.copyWith(fontFamily: 'OpenSans'),
